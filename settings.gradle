@@ -1,0 +1,1 @@
+include ':fakeapp', ':fakemoneyservice', ':wechatmoney'

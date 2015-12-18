@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeChatMoney.iml" filepath="$PROJECT_DIR$/WeChatMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fakeapp/fakeapp.iml" filepath="$PROJECT_DIR$/fakeapp/fakeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fakemoneyservice/fakemoneyservice.iml" filepath="$PROJECT_DIR$/fakemoneyservice/fakemoneyservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechatmoney/wechatmoney.iml" filepath="$PROJECT_DIR$/wechatmoney/wechatmoney.iml" />
+    </modules>
+  </component>
+</project>

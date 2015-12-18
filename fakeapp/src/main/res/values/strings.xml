@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeChatMoney</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="app_fake_home">FakeAppHome</string>
+    <string name="app_fake_result">FakeAppResult</string>
+</resources>
