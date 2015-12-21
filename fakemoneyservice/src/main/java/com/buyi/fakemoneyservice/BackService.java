@@ -40,7 +40,7 @@ public class BackService extends AccessibilityService {
                 break;
             case AccessibilityEvent.TYPE_WINDOW_STATE_CHANGED:
                 String className = event.getClassName().toString();
-                if (className.equals("com.buyi.wechatmoney.ActivityResult")) {
+                if (className.equals("com.buyi.fakeapp.ActivityResult")) {
                     getPacket ();
                     openPacket();
                 }
